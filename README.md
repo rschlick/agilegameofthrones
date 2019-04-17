@@ -1,3 +1,6 @@
+
+<table><tr><td style="vertical-align: middle"><img src="images/agile_got.png" width="200px" alt="[Agile Game of Thrones picture]"/></td></tr></table>
+
 # Atelier Agile Game of Thrones
 
 Agile Game of Thrones est un atelier de sensibilisation à l'agilité. 
