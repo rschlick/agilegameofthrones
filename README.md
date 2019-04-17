@@ -17,6 +17,10 @@ Il s'adresse à un public très large débutant ou expérimenté.
 
 ## Supports
 
+- Le déroulement complet
+- Les instructions pour les participants
+- <a href="supports/BBL Agile Game of Thrones.docx">La fiche de jeu</a> pour les participants
+
 
 ## Licence
 
