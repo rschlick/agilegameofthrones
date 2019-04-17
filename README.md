@@ -1,5 +1,5 @@
 
-<table><tr><td style="vertical-align: middle"><img src="images/agile_got.png" width="200px" alt="[Agile Game of Thrones picture]"/></td></tr></table>
+<img src="images/agile_got.png" width="200px" alt="[Agile Game of Thrones picture]" style="border: 0;"/>
 
 # Atelier Agile Game of Thrones
 
