@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+# Atelier Agile Game of Thrones
 
-You can use the [editor on GitHub](https://github.com/rschlick/agilegameofthrones/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Agile Game of Thrones est un atelier de sensibilisation à l'agilité. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Objectifs de l'atelier
+
+Il met en évidence de manière ludique les enjeux de l'approche agile: Itérations, priorisation, valeur, adaptation aux changements, etc.
+Il s'adresse à un public très large débutant ou expérimenté.
+
+### Format
+
+- Durée : Cet atelier se déroule sur une durée de 60 à 75 min
+- Nombre de participants : entre 5 et 20 (Observateurs possibles)
+
+## Supports
+
+
+## Licence
+
+Agile Game of Thrones de Mael Morel et Romain Schlick est mis à disposition selon les termes de la licence [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions International 4.0 (CC BY-NC-SA 4.0). "Game of Thrones" est une série déposée par HBO (Home Box Office Inc.). Cet atelier pédagogique n'utilise pas l'image de "Game of Thrones" à des fins commerciaux. 
+
+
+
+
 
 ### Markdown
 
@@ -32,6 +51,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rschlick/agilegameofthrones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
