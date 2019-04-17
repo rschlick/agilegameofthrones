@@ -10,6 +10,11 @@ Agile Game of Thrones est un atelier de sensibilisation à l'agilité.
 Il met en évidence de manière ludique les enjeux de l'approche agile: Itérations, priorisation, valeur, adaptation aux changements, etc.
 Il s'adresse à un public très large débutant ou expérimenté.
 
+### Contexte
+
+Dans cet atelier, vous aurez la lourde tâche de défendre votre royaume.
+Vous découvrirez l’importance de la priorisation et de l’estimation avec des armures, des batailles, des stats, et des itérations.
+
 ### Format
 
 - Durée : Cet atelier se déroule sur une durée de 60 à 75 min
@@ -17,8 +22,8 @@ Il s'adresse à un public très large débutant ou expérimenté.
 
 ## Supports
 
-- Le déroulement complet
-- Les instructions pour les participants
+- Le déroulement complet pour les animateurs
+- Support de présentation pour les animateurs 
 - <a href="supports/BBL Agile Game of Thrones.docx">La fiche de jeu</a> pour les participants
 
 
