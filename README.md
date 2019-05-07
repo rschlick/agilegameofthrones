@@ -22,8 +22,8 @@ Vous découvrirez l’importance de la priorisation et de l’estimation avec de
 
 ## Supports
 
-- <a href="supports/déroulé_agile_got.docx">Le déroulement complet pour les animateurs</a>
-- <a href="support_presentation_agile_got.pptx">Support de présentation pour les animateurs</a>
+- <a href="supports/déroulé_agile_got.docx">Le déroulement complet</a> pour les animateurs
+- <a href="support_presentation_agile_got.pptx">Support de présentation</a> pour les animateurs
 - <a href="supports/fiche_jeu_agile_got.docx">La fiche de jeu</a> pour les participants
 
 
